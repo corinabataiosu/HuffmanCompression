@@ -1,0 +1,15 @@
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\obj\Debug\net9.0\huffman.GeneratedMSBuildEditorConfig.editorconfig
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\obj\Debug\net9.0\huffman.AssemblyInfoInputs.cache
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\obj\Debug\net9.0\huffman.AssemblyInfo.cs
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\obj\Debug\net9.0\huffman.csproj.CoreCompileInputs.cache
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\obj\Debug\net9.0\huffman.sourcelink.json
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\bin\Debug\net9.0\huffman.exe
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\bin\Debug\net9.0\huffman.deps.json
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\bin\Debug\net9.0\huffman.runtimeconfig.json
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\bin\Debug\net9.0\huffman.dll
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\bin\Debug\net9.0\huffman.pdb
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\obj\Debug\net9.0\huffman.dll
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\obj\Debug\net9.0\refint\huffman.dll
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\obj\Debug\net9.0\huffman.pdb
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\obj\Debug\net9.0\huffman.genruntimeconfig.cache
+D:\an3sem2\algoritmi-paraleli-si-distribuiti\git\parallel1_compression\huffman\obj\Debug\net9.0\ref\huffman.dll
