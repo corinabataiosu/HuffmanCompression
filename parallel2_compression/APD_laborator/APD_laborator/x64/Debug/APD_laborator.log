@@ -1,0 +1,4 @@
+﻿  compress_parallel.cpp
+D:\an3sem2\apd\APD_laborator\APD_laborator\compress_parallel.cpp(69,81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\an3sem2\apd\APD_laborator\APD_laborator\compress_parallel.cpp(81,83): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  APD_laborator.vcxproj -> D:\an3sem2\apd\APD_laborator\x64\Debug\APD_laborator.exe
