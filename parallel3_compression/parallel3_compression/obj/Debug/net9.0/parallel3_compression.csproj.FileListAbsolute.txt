@@ -1,0 +1,14 @@
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\obj\Debug\net9.0\parallel3_compression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\obj\Debug\net9.0\parallel3_compression.AssemblyInfoInputs.cache
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\obj\Debug\net9.0\parallel3_compression.AssemblyInfo.cs
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\obj\Debug\net9.0\parallel3_compression.csproj.CoreCompileInputs.cache
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\bin\Debug\net9.0\parallel3_compression.exe
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\bin\Debug\net9.0\parallel3_compression.deps.json
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\bin\Debug\net9.0\parallel3_compression.runtimeconfig.json
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\bin\Debug\net9.0\parallel3_compression.dll
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\bin\Debug\net9.0\parallel3_compression.pdb
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\obj\Debug\net9.0\parallel3_compression.dll
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\obj\Debug\net9.0\refint\parallel3_compression.dll
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\obj\Debug\net9.0\parallel3_compression.pdb
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\obj\Debug\net9.0\parallel3_compression.genruntimeconfig.cache
+C:\Users\Corina\Desktop\parallel3_compression\parallel3_compression\obj\Debug\net9.0\ref\parallel3_compression.dll

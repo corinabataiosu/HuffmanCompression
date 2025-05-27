@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "parallel3_compression/1.0.0": {
+        "runtime": {
+          "parallel3_compression.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "parallel3_compression/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
